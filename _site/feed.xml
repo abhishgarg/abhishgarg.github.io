@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Abhishek Garg</title>
+    <description>I&#39;m Abhishek Garg, an Indian technologist. I live in Delhi and work @ wingify.com. I&#39;m passaionate about FOSS and Devops tools. I like to solve problems and love to listen music.
+</description>
+    <link>http://abhishekgarg.xyz/</link>
+    <atom:link href="http://abhishekgarg.xyz/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sat, 16 Jan 2016 21:00:13 +0530</pubDate>
+    <lastBuildDate>Sat, 16 Jan 2016 21:00:13 +0530</lastBuildDate>
+    <generator>Jekyll v2.4.0</generator>
+    
+      <item>
+        <title>Welcome to My space!</title>
+        <description>&lt;p&gt;Hi thanks for stopping by here.&lt;/p&gt;
+
+&lt;p&gt;This is space where I am going to express (don’t know what’s coming) on varios topics. This is going to be my first post here don’t have much word to write down at this momment and exicted to start this after too much excuses. You can except some post here with some geeky problems (of course with soultions ?), some moments and memories of mine :)&lt;/p&gt;
+
+&lt;p&gt;Hope to be in touch and see u again !&lt;/p&gt;
+</description>
+        <pubDate>Mon, 11 Jan 2016 23:53:21 +0530</pubDate>
+        <link>http://abhishekgarg.xyz/first/blog/2016/01/11/welcome-to-my-space.html</link>
+        <guid isPermaLink="true">http://abhishekgarg.xyz/first/blog/2016/01/11/welcome-to-my-space.html</guid>
+        
+        
+        <category>first</category>
+        
+        <category>blog</category>
+        
+      </item>
+    
+  </channel>
+</rss>
