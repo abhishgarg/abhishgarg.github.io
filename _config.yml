@@ -1,0 +1,24 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+
+title: Abhishek Garg
+email: hello@abhishekgarg.xyz
+description: > 
+  I'm Abhishek Garg, an Indian technologist.
+  I live in Delhi and work @ wingify.com. I'm passaionate about FOSS and Devops tools.
+  I like to solve problems and love to listen music.
+
+#Contact me at @henrik or henrik@nyh.se.
+
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://abhishekgarg.xyz" # the base hostname & protocol for your site: ''
+twitter_username: '@_AbhishekGarg'
+
+# Build settings
+markdown: kramdown
