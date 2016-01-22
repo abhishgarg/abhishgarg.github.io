@@ -3,6 +3,7 @@ layout: post
 title:  "Welcome to My space!"
 date:   2016-01-11 18:23:21 +0000
 categories: First Blog
+tags: [blog, first]
 ---
 Hi thanks for stopping by here.
 

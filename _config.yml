@@ -1,24 +1,31 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'jekyll serve'. If you change this file, please restart the server process.
-
 # Site settings
-
 title: Abhishek Garg
-email: hello@abhishekgarg.xyz
-description: > 
-  I'm Abhishek Garg, an Indian technologist.
-  I live in Delhi and work @ wingify.com. I'm passaionate about FOSS and Devops tools.
-  I like to solve problems and love to listen music.
+description: 'Technologist and a Proud Indian, love to learn something daily and making stuff'
+url: 'http://abhishekgarg.xyz'
+baseurl: '/'
+google_analytics: 'UA-72416277-1'
 
-#Contact me at @henrik or henrik@nyh.se.
-
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://abhishekgarg.xyz" # the base hostname & protocol for your site: ''
-twitter_username: '@_AbhishekGarg'
+author:
+  name: 'Abhishek Garg'
+  email: hello@abhishekgarg.xyz
+  twitter_username: _AbhishekGarg
+#  github_username:  joshgerdes
+  linkedin_username:  abhishgarg
 
 # Build settings
+destination: _site
+paginate: 10
+permalink: /:year/:title/
 markdown: kramdown
+highlighter: pygments
+
+kramdown:
+  # use Github Flavored Markdown
+  input: GFM
+  # do not replace newlines by <br>s
+  hard_wrap: false
+
+gems:
+  - jemoji
+
+exclude: ['README.md', 'Gemfile', 'Gemfile.lock', 'screenshot.png']
