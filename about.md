@@ -1,12 +1,18 @@
 ---
-layout: about
+title: About
+layout: page
+permalink: /about/index.html
+star: true
 ---
+<style>
+img { width: 50%; margin: 0 auto; display: block; }
+</style>
+
+![Profile Image]({{ site.url }}/{{ site.picture }})
+
 <h3>So, who's this Abhishek Garg ?</h3>
 <h4>Namaste ( नमस्ते ),</h4>
 
-<br>
-I'm Engineer by profession and build things ( on jenkins :neckbeard: ) , by nature am just an another boring and lazy person who don't believe to repeat tasks and love to automate them as much possible.
+My name is Abhishek Garg. I live in [Delhi](http://www.delhitourism.gov.in/delhitourism/aboutus/index.jsp) (capital of [India](http://incredibleind  ia.org/)) and work as a software engineer @ [Wingify](https://wingify.com) a technology company who just simply believe in awesomeness.
 
-I have spent 23 years (without damaging too much earth). I live in [Delhi](http://www.delhitourism.gov.in/delhitourism/aboutus/index.jsp) (capital of [India](http://incredibleind  ia.org/)). I work at [Wingify](https://wingify.com).
-
-I'm passionate about technology, support FOSS and love Linux.
+I do practice DevOps culture and love to manage Infrastructure by code. I do support FOSS and GNU and mine favorite Desktop distos are Ubuntu and Mint and CentOS. 

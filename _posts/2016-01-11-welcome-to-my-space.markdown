@@ -1,9 +1,12 @@
 ---
-layout: post
 title:  "Welcome to My space!"
+layout: post
 date:   2016-01-11 18:23:21 +0000
-categories: Welcome Blog
-tags: [welcome, blog]
+tag:
+- markdown
+- components
+- extra
+blog: true
 ---
 Hi thanks for stopping by here.
 
