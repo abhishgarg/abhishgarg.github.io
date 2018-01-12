@@ -1,6 +1,7 @@
 source 'http://rubygems.org'
 
 gem 'github-pages'
+gem 'json'
 gem 'rake'
 gem 'pygments.rb'
 gem 'jekyll'

@@ -1,5 +1,5 @@
 name: Abhishek Garg
-bio: 'Proud Indian, love bash and making stuff out of this'
+bio: 'An Indian, Technologist, #DevOps, <3 Servers'
 picture: 'assets/images/profile.jpg'
 
 permalink: /:title/
@@ -9,7 +9,7 @@ analytics: 'UA-72416277-1'
 #instagram: myinstagram
 #youtube: myyoutube
 #spotify: myspotify
-facebook: g.abhish
+#facebook: g.abhish
 twitter: _AbhishekGarg
 linkedin: in/abhishgarg
 github: abhishgarg
@@ -18,8 +18,8 @@ email: hello@abhishekgarg.xyz
 exclude: [README.md, Gemfile, Gemfile.lock, node_modules, gulpfile.js, package.json, _site, src, vendor]
 
 # if you don't need pagination, comment the *paginate* configs below
-# paginate: 5
-# paginate_path: "blog/:num/"
+paginate: 5
+paginate_path: "blog/:num/"
 
 markdown: kramdown
 highlighter: pygments
